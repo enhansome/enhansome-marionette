@@ -1,0 +1,372 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T03:31:54Z",
+            "owner": "marionettejs",
+            "repo": "backbone.marionette",
+            "stars": 7035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yeoman generator for Marionette.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-23T15:11:20Z",
+            "owner": "mrichard",
+            "repo": "generator-marionette",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette Inspector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-07-24T05:40:14Z",
+            "owner": "marionettejs",
+            "repo": "marionette.inspector",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette CLI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-28T14:35:07Z",
+            "owner": "denar90",
+            "repo": "marionette-cli",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Todo List",
+          "description": "TodoMVC example",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-06T23:35:53Z",
+            "owner": "tastejs",
+            "repo": "todomvc",
+            "stars": 28953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Streamus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-08T17:06:18Z",
+            "owner": "MeoMix",
+            "repo": "StreamusChromeExtension",
+            "stars": 1069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette Gentle Introduction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-09T17:52:51Z",
+            "owner": "davidsulc",
+            "repo": "marionette-gentle-introduction",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette Wires",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-09T12:04:55Z",
+            "owner": "jamiebuilds",
+            "repo": "marionette-wires",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette Require Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-04-16T14:43:24Z",
+            "owner": "BoilerplateMVC",
+            "repo": "Marionette-Require-Boilerplate",
+            "stars": 242
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette-Integrations",
+          "description": "example marionette apps using several different asset management tools",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-15T10:48:22Z",
+            "owner": "marionettejs",
+            "repo": "marionette-integrations",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette Cookbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-05-08T02:23:13Z",
+            "owner": "MarionetteLabs",
+            "repo": "marionette-cookbook",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Place to Write About Technical Subjects on the Web",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-07-15T04:09:17Z",
+            "owner": "jamesplease",
+            "repo": "gistbook",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ES6 Marionette Project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-14T22:07:57Z",
+            "owner": "abiee",
+            "repo": "es6-marionette",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarionetteJS + RequireJS + Twitter Bootstrap",
+          "description": "Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-07-06T07:20:59Z",
+            "owner": "ajaxray",
+            "repo": "marionette-boilerplate",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Front End App for edit.sx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2015-01-15T23:16:32Z",
+            "owner": "samccone",
+            "repo": "edit.sx-frontend",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette Contact Manager",
+          "description": "Continuation of development \"Backbone Contact Manager\" but using Marionette.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-02-05T15:47:52Z",
+            "owner": "dmytroyarmak",
+            "repo": "marionette-contact-manager",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webpack-Marionette",
+          "description": "A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-30T20:47:47Z",
+            "owner": "alexpsi",
+            "repo": "webpack-marionette",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette, Require, and Gulp.js Boilerplate",
+          "description": "A Lightweight boilerplate originally project based off \"Marionette Require Boilerplate\", with Gulp.js integration instead of Grunt.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ApacheConf",
+            "last_commit": "2015-05-20T22:25:57Z",
+            "owner": "jroeckle",
+            "repo": "Marionette-Require-Gulpjs-Boilerplate",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarionetteJS + Brunch + Babel/ES6",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-03-23T22:34:01Z",
+            "owner": "denar90",
+            "repo": "brunch-with-marionettejs",
+            "stars": 16
+          }
+        }
+      ],
+      "title": "Examples and boilerplates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Marionette Virtual Dom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-27T23:02:48Z",
+            "owner": "themindfuldev",
+            "repo": "marionette-vdom",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette State",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-01-25T17:54:59Z",
+            "owner": "Squareknot",
+            "repo": "marionette.state",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette Form View",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-08-10T22:13:59Z",
+            "owner": "viverae",
+            "repo": "marionette.formview",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Better Router for Backbone and Marionette Applications",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-01-22T15:22:57Z",
+            "owner": "Betterment",
+            "repo": "backbone.blazer",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marionette.Toolkit",
+          "description": "A collection of opinionated Backbone.Marionette extensions for large scale application architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-13T15:58:46Z",
+            "owner": "RoundingWellOS",
+            "repo": "marionette.toolkit",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orchestra",
+          "description": "Client-side app orchestration framework",
+          "children": []
+        }
+      ],
+      "title": "Libraries"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:48.061Z",
+    "original_repository": "sadcitizen/awesome-marionette",
+    "original_repository_sha": "d70b479fa89652fcbdab8bba70dba1dcdc68aedf",
+    "enhanced_repository": "enhansome/enhansome-marionette",
+    "enhanced_repository_description": null,
+    "title": "Awesome Marionette.js with stars"
+  }
+}
