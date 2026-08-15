@@ -76,7 +76,7 @@
             "last_commit": "2026-06-06T23:35:53Z",
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28952
+            "stars": 28953
           }
         },
         {
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:28:53.087Z",
+    "last_updated": "2026-08-15T09:45:26.792Z",
     "original_repository": "sadcitizen/awesome-marionette",
     "original_repository_sha": "d70b479fa89652fcbdab8bba70dba1dcdc68aedf",
     "enhanced_repository": "enhansome/enhansome-marionette",
