@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2965621,
             "language": "JavaScript",
-            "last_commit": "2026-08-05T03:31:54Z",
+            "last_commit": "2026-08-18T13:37:41Z",
             "owner": "marionettejs",
             "repo": "backbone.marionette",
             "stars": 7035
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10202180,
             "language": "JavaScript",
             "last_commit": "2016-12-23T15:11:20Z",
             "owner": "mrichard",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24510199,
             "language": "JavaScript",
             "last_commit": "2018-07-24T05:40:14Z",
             "owner": "marionettejs",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45683349,
             "language": "JavaScript",
             "last_commit": "2016-05-28T14:35:07Z",
             "owner": "denar90",
@@ -63,7 +67,7 @@
       "title": "General"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1844251,
             "language": "JavaScript",
             "last_commit": "2026-06-06T23:35:53Z",
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28953
+            "stars": 28950
           }
         },
         {
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12839432,
             "language": "JavaScript",
             "last_commit": "2021-09-08T17:06:18Z",
             "owner": "MeoMix",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10003386,
             "language": "JavaScript",
             "last_commit": "2016-05-09T17:52:51Z",
             "owner": "davidsulc",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18927340,
             "language": "JavaScript",
             "last_commit": "2016-09-09T12:04:55Z",
             "owner": "jamiebuilds",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7299259,
             "language": "JavaScript",
             "last_commit": "2020-04-16T14:43:24Z",
             "owner": "BoilerplateMVC",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17483357,
             "language": "JavaScript",
             "last_commit": "2017-10-15T10:48:22Z",
             "owner": "marionettejs",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17648422,
             "language": "JavaScript",
             "last_commit": "2015-05-08T02:23:13Z",
             "owner": "MarionetteLabs",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23545967,
             "language": "JavaScript",
             "last_commit": "2015-07-15T04:09:17Z",
             "owner": "jamesplease",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29330709,
             "language": "JavaScript",
             "last_commit": "2016-11-14T22:07:57Z",
             "owner": "abiee",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19025520,
             "language": "JavaScript",
             "last_commit": "2014-07-06T07:20:59Z",
             "owner": "ajaxray",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29322916,
             "language": "CSS",
             "last_commit": "2015-01-15T23:16:32Z",
             "owner": "samccone",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16523936,
             "language": "JavaScript",
             "last_commit": "2014-02-05T15:47:52Z",
             "owner": "dmytroyarmak",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77617140,
             "language": "JavaScript",
             "last_commit": "2016-12-30T20:47:47Z",
             "owner": "alexpsi",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18546991,
             "language": "ApacheConf",
             "last_commit": "2015-05-20T22:25:57Z",
             "owner": "jroeckle",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54969896,
             "language": "JavaScript",
             "last_commit": "2017-03-23T22:34:01Z",
             "owner": "denar90",
@@ -279,7 +298,7 @@
       "title": "Examples and boilerplates"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28552205,
             "language": "JavaScript",
             "last_commit": "2018-12-27T23:02:48Z",
             "owner": "themindfuldev",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28600989,
             "language": "JavaScript",
             "last_commit": "2016-01-25T17:54:59Z",
             "owner": "Squareknot",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6513625,
             "language": "JavaScript",
             "last_commit": "2015-08-10T22:13:59Z",
             "owner": "viverae",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 30990789,
             "language": "JavaScript",
             "last_commit": "2018-01-22T15:22:57Z",
             "owner": "Betterment",
@@ -344,25 +367,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30786083,
             "language": "JavaScript",
             "last_commit": "2026-04-13T15:58:46Z",
             "owner": "RoundingWellOS",
             "repo": "marionette.toolkit",
             "stars": 70
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Orchestra",
-          "description": "Client-side app orchestration framework",
-          "children": []
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:53:45.374Z",
+    "last_updated": "2026-08-19T09:53:57.734Z",
     "original_repository": "sadcitizen/awesome-marionette",
     "original_repository_sha": "d70b479fa89652fcbdab8bba70dba1dcdc68aedf",
     "enhanced_repository": "enhansome/enhansome-marionette",
