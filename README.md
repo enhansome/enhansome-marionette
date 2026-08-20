@@ -85,7 +85,7 @@
 
 ## Examples and boilerplates
 
-* [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) ⭐ 28,950 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-06 - TodoMVC example
+* [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) ⭐ 28,949 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-06 - TodoMVC example
 * [Streamus](https://github.com/MeoMix/StreamusChromeExtension) ⭐ 1,069 | 🐛 81 | 🌐 JavaScript | 📅 2021-09-08
 * [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) ⭐ 341 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-09
 * [Marionette Wires](https://github.com/thejameskyle/marionette-wires) ⭐ 321 | 🐛 16 | 🌐 JavaScript | 📅 2016-09-09
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
