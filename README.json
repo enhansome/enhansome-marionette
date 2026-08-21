@@ -12,7 +12,7 @@
             "archived": false,
             "id": 2965621,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T13:37:41Z",
+            "last_commit": "2026-08-20T20:29:36Z",
             "owner": "marionettejs",
             "repo": "backbone.marionette",
             "stars": 7035
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-06T23:35:53Z",
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28949
+            "stars": 28948
           }
         },
         {
@@ -380,7 +380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:54:33.984Z",
+    "last_updated": "2026-08-21T09:55:48.396Z",
     "original_repository": "sadcitizen/awesome-marionette",
     "original_repository_id": 27589237,
     "original_repository_sha": "d70b479fa89652fcbdab8bba70dba1dcdc68aedf",
