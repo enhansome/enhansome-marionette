@@ -380,9 +380,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:01:52.817Z",
-    "original_repository": "sadcitizen/awesome-marionette",
-    "original_repository_id": 27589237,
+    "last_updated": "2026-08-27T11:52:31.510Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 27589237,
+      "language": null,
+      "last_commit": "2017-01-04T21:05:52Z",
+      "owner": "sadcitizen",
+      "repo": "awesome-marionette",
+      "stars": 153
+    },
     "original_repository_sha": "d70b479fa89652fcbdab8bba70dba1dcdc68aedf",
     "enhanced_repository": "enhansome/enhansome-marionette",
     "enhanced_repository_description": null,
