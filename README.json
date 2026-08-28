@@ -16,7 +16,8 @@
             "owner": "marionettejs",
             "repo": "backbone.marionette",
             "stars": 7035
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mrichard",
             "repo": "generator-marionette",
             "stars": 327
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "marionettejs",
             "repo": "marionette.inspector",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "denar90",
             "repo": "marionette-cli",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         }
       ],
       "title": "General"
@@ -82,7 +86,8 @@
             "owner": "tastejs",
             "repo": "todomvc",
             "stars": 28949
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "MeoMix",
             "repo": "StreamusChromeExtension",
             "stars": 1069
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "davidsulc",
             "repo": "marionette-gentle-introduction",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "jamiebuilds",
             "repo": "marionette-wires",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "BoilerplateMVC",
             "repo": "Marionette-Require-Boilerplate",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "marionettejs",
             "repo": "marionette-integrations",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "MarionetteLabs",
             "repo": "marionette-cookbook",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "jamesplease",
             "repo": "gistbook",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "abiee",
             "repo": "es6-marionette",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "ajaxray",
             "repo": "marionette-boilerplate",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "samccone",
             "repo": "edit.sx-frontend",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "dmytroyarmak",
             "repo": "marionette-contact-manager",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "alexpsi",
             "repo": "webpack-marionette",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "jroeckle",
             "repo": "Marionette-Require-Gulpjs-Boilerplate",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "denar90",
             "repo": "brunch-with-marionettejs",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         }
       ],
       "title": "Examples and boilerplates"
@@ -313,7 +332,8 @@
             "owner": "themindfuldev",
             "repo": "marionette-vdom",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "Squareknot",
             "repo": "marionette.state",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "viverae",
             "repo": "marionette.formview",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "Betterment",
             "repo": "backbone.blazer",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         },
         {
           "node_type": "item",
@@ -373,14 +396,15 @@
             "owner": "RoundingWellOS",
             "repo": "marionette.toolkit",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T20:57:16.149Z"
         }
       ],
       "title": "Libraries"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:53:28.394Z",
+    "last_updated": "2026-08-28T20:57:16.149Z",
     "original_repository_info": {
       "archived": false,
       "id": 27589237,
