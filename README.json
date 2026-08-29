@@ -69,7 +69,7 @@
             "open_issues": 56,
             "owner": "marionettejs",
             "repo": "marionette.inspector",
-            "stars": 170,
+            "stars": 169,
             "topics": [
               "backbone",
               "chrome-extension",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:55:46.061Z",
+    "last_updated": "2026-08-29T14:34:27.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
