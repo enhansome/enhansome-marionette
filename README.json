@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Backbone Framework",
+            "homepage": "https://marionettejs.com",
             "id": 2965621,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T20:29:36Z",
+            "open_issues": 37,
             "owner": "marionettejs",
             "repo": "backbone.marionette",
-            "stars": 7035
+            "stars": 7035,
+            "topics": [
+              "backbone",
+              "backbone-framework",
+              "framework",
+              "frontend",
+              "javascript",
+              "marionette",
+              "marionettejs"
+            ]
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yeoman marionette generator a la AMD",
+            "homepage": null,
             "id": 10202180,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-23T15:11:20Z",
+            "open_issues": 24,
             "owner": "mrichard",
             "repo": "generator-marionette",
-            "stars": 327
+            "stars": 327,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -42,12 +60,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mag: Marionette Inspector - Explore your App",
+            "homepage": "http://goo.gl/Wo3pju",
             "id": 24510199,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-07-24T05:40:14Z",
+            "open_issues": 56,
             "owner": "marionettejs",
             "repo": "marionette.inspector",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "backbone",
+              "chrome-extension",
+              "inspector",
+              "marionette"
+            ]
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -58,12 +86,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI for MarionetteJS",
+            "homepage": null,
             "id": 45683349,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-05-28T14:35:07Z",
+            "open_issues": 3,
             "owner": "denar90",
             "repo": "marionette-cli",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         }
@@ -80,12 +113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more",
+            "homepage": "http://todomvc.com",
             "id": 1844251,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-06T23:35:53Z",
+            "open_issues": 72,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28949
+            "stars": 28950,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -96,12 +134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A YouTube video player as a Google Chrome extension",
+            "homepage": "http://streamus.com",
             "id": 12839432,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-08T17:06:18Z",
+            "open_issues": 81,
             "owner": "MeoMix",
             "repo": "StreamusChromeExtension",
-            "stars": 1069
+            "stars": 1069,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -112,12 +155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for the \"Backbone.Marionette.js: A Gentle Introduction\" book available at https://leanpub.com/marionette-gentle-introduction",
+            "homepage": null,
             "id": 10003386,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-05-09T17:52:51Z",
+            "open_issues": 0,
             "owner": "davidsulc",
             "repo": "marionette-gentle-introduction",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -128,12 +176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":shipit: An opinionated example application built with Marionette.js.",
+            "homepage": null,
             "id": 18927340,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2016-09-09T12:04:55Z",
+            "open_issues": 16,
             "owner": "jamiebuilds",
             "repo": "marionette-wires",
-            "stars": 321
+            "stars": 321,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -144,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Marionette-Require-Boilerplate",
+            "homepage": null,
             "id": 7299259,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-04-16T14:43:24Z",
+            "open_issues": 3,
             "owner": "BoilerplateMVC",
             "repo": "Marionette-Require-Boilerplate",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -160,12 +218,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of starter kits for building Marionette Applications",
+            "homepage": null,
             "id": 17483357,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-10-15T10:48:22Z",
+            "open_issues": 9,
             "owner": "marionettejs",
             "repo": "marionette-integrations",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "boilerplate-template",
+              "marionettejs",
+              "starter-kit"
+            ]
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -176,12 +243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(Work in progress) Examples of common UI patterns with Marionette.js",
+            "homepage": null,
             "id": 17648422,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-05-08T02:23:13Z",
+            "open_issues": 21,
             "owner": "MarionetteLabs",
             "repo": "marionette-cookbook",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -192,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[No longer hosted] A place to write about technical subjects on the web.",
+            "homepage": null,
             "id": 23545967,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-07-15T04:09:17Z",
+            "open_issues": 38,
             "owner": "jamesplease",
             "repo": "gistbook",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -208,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Boilerplate project built with ECMAScript 6 support for Backbone.Marionette based projects. Includes Browserify, Gulp and Karma",
+            "homepage": null,
             "id": 29330709,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-11-14T22:07:57Z",
+            "open_issues": 1,
             "owner": "abiee",
             "repo": "es6-marionette",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -224,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes.  Backbone + Marionette + RequireJS + Twitter Bootstrap",
+            "homepage": null,
             "id": 19025520,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-07-06T07:20:59Z",
+            "open_issues": 3,
             "owner": "ajaxray",
             "repo": "marionette-boilerplate",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -240,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the front end app for edit.sx",
+            "homepage": null,
             "id": 29322916,
             "language": "CSS",
+            "license": null,
             "last_commit": "2015-01-15T23:16:32Z",
+            "open_issues": 0,
             "owner": "samccone",
             "repo": "edit.sx-frontend",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -256,12 +348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Continuation of development backbone-contact-manager but using Marionette.js",
+            "homepage": null,
             "id": 16523936,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2014-02-05T15:47:52Z",
+            "open_issues": 1,
             "owner": "dmytroyarmak",
             "repo": "marionette-contact-manager",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -272,12 +369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application",
+            "homepage": null,
             "id": 77617140,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-30T20:47:47Z",
+            "open_issues": 0,
             "owner": "alexpsi",
             "repo": "webpack-marionette",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -288,12 +390,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 18546991,
             "language": "ApacheConf",
+            "license": "MIT",
             "last_commit": "2015-05-20T22:25:57Z",
+            "open_issues": 1,
             "owner": "jroeckle",
             "repo": "Marionette-Require-Gulpjs-Boilerplate",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -304,12 +411,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Marionette.js skeleton with Babel/ES6 for Brunch with Progressive Web App goodness",
+            "homepage": "https://denar90.github.io/brunch-with-marionettejs/",
             "id": 54969896,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-03-23T22:34:01Z",
+            "open_issues": 0,
             "owner": "denar90",
             "repo": "brunch-with-marionettejs",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "brunch",
+              "marionette",
+              "offline",
+              "pwa",
+              "service-worker",
+              "skeleton",
+              "sw-precache"
+            ]
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         }
@@ -326,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Marionette.js views implemented with virtual-dom",
+            "homepage": null,
             "id": 28552205,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-12-27T23:02:48Z",
+            "open_issues": 2,
             "owner": "themindfuldev",
             "repo": "marionette-vdom",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -342,12 +467,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uni-directional state architecture for a Marionette.js app.",
+            "homepage": null,
             "id": 28600989,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2016-01-25T17:54:59Z",
+            "open_issues": 1,
             "owner": "Squareknot",
             "repo": "marionette.state",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -358,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Marionette Form View, Easy Form Validation, Serialization and Submission ",
+            "homepage": null,
             "id": 6513625,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-08-10T22:13:59Z",
+            "open_issues": 5,
             "owner": "viverae",
             "repo": "marionette.formview",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -374,12 +509,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[UNSUPPORTED] A better router for Backbone and Marionette applications",
+            "homepage": null,
             "id": 30990789,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-01-22T15:22:57Z",
+            "open_issues": 0,
             "owner": "Betterment",
             "repo": "backbone.blazer",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         },
@@ -390,12 +530,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of opinionated Backbone.Marionette extensions for large scale application architecture.",
+            "homepage": "http://roundingwellos.github.io/marionette.toolkit/",
             "id": 30786083,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-13T15:58:46Z",
+            "open_issues": 6,
             "owner": "RoundingWellOS",
             "repo": "marionette.toolkit",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "application-architecture",
+              "backbone",
+              "backbone-framework",
+              "backbonejs",
+              "javascript",
+              "marionette",
+              "marionettejs"
+            ]
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
         }
@@ -404,15 +557,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:57:16.149Z",
+    "last_updated": "2026-08-29T04:55:46.061Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of resources for marionette.js",
+      "homepage": null,
       "id": 27589237,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2017-01-04T21:05:52Z",
+      "open_issues": 1,
       "owner": "sadcitizen",
       "repo": "awesome-marionette",
-      "stars": 153
+      "stars": 153,
+      "topics": []
     },
     "original_repository_sha": "d70b479fa89652fcbdab8bba70dba1dcdc68aedf",
     "enhanced_repository": "enhansome/enhansome-marionette",
