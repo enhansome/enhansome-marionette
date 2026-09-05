@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "marionettejs",
             "repo": "backbone.marionette",
-            "stars": 7035,
+            "stars": 7034,
             "topics": [
               "backbone",
               "backbone-framework",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:36:09.119Z",
+    "last_updated": "2026-09-05T12:49:40.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",

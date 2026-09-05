@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,035 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-20
+* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,034 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-20
 * [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette) ⭐ 327 | 🐛 24 | 🌐 JavaScript | 📅 2016-12-23
 * [Marionette Inspector](https://github.com/marionettejs/marionette.inspector) ⭐ 169 | 🐛 56 | 🌐 JavaScript | 📅 2018-07-24
 * [Marionette CLI](https://github.com/denar90/marionette-cli) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2016-05-28
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
