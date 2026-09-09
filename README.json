@@ -19,7 +19,7 @@
             "open_issues": 38,
             "owner": "marionettejs",
             "repo": "backbone.marionette",
-            "stars": 7034,
+            "stars": 7033,
             "topics": [
               "backbone",
               "backbone-framework",
@@ -59,7 +59,7 @@
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": ":mag: Marionette Inspector - Explore your App",
             "homepage": "http://goo.gl/Wo3pju",
             "id": 24510199,
@@ -217,7 +217,7 @@
           "description": "example marionette apps using several different asset management tools",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "A collection of starter kits for building Marionette Applications",
             "homepage": null,
             "id": 17483357,
@@ -252,7 +252,7 @@
             "open_issues": 21,
             "owner": "MarionetteLabs",
             "repo": "marionette-cookbook",
-            "stars": 105,
+            "stars": 104,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T13:42:26.321Z",
+    "last_updated": "2026-09-09T13:47:00.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",

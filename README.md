@@ -4,9 +4,9 @@
 
 ## General
 
-* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,034 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-07
+* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,033 | 🐛 38 | 🌐 JavaScript | 📅 2026-09-07
 * [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette) ⭐ 327 | 🐛 24 | 🌐 JavaScript | 📅 2016-12-23
-* [Marionette Inspector](https://github.com/marionettejs/marionette.inspector) ⭐ 169 | 🐛 56 | 🌐 JavaScript | 📅 2018-07-24
+* [Marionette Inspector](https://github.com/marionettejs/marionette.inspector) ⚠️ Archived
 * [Marionette CLI](https://github.com/denar90/marionette-cli) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2016-05-28
 * [Official site](http://marionettejs.com/)
 * [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
@@ -90,8 +90,8 @@
 * [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) ⭐ 341 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-09
 * [Marionette Wires](https://github.com/thejameskyle/marionette-wires) ⭐ 321 | 🐛 16 | 🌐 JavaScript | 📅 2016-09-09
 * [Marionette Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate) ⚠️ Archived
-* [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) ⭐ 118 | 🐛 9 | 🌐 JavaScript | 📅 2017-10-15 - example marionette apps using several different asset management tools
-* [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) ⭐ 105 | 🐛 21 | 🌐 JavaScript | 📅 2015-05-08
+* [Marionette-Integrations](https://github.com/marionettejs/marionette-integrations) ⚠️ Archived - example marionette apps using several different asset management tools
+* [Marionette Cookbook](https://github.com/MarionetteLabs/marionette-cookbook) ⭐ 104 | 🐛 21 | 🌐 JavaScript | 📅 2015-05-08
 * [A Place to Write About Technical Subjects on the Web](https://github.com/jmeas/gistbook) ⭐ 88 | 🐛 38 | 🌐 JavaScript | 📅 2015-07-15
 * [ES6 Marionette Project](https://github.com/abiee/es6-marionette) ⭐ 62 | 🐛 1 | 🌐 JavaScript | 📅 2016-11-14
 * [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate) ⭐ 61 | 🐛 3 | 🌐 JavaScript | 📅 2014-07-06 - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
