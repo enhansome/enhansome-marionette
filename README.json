@@ -15,8 +15,8 @@
             "id": 2965621,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T07:16:21Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-10T23:50:18Z",
+            "open_issues": 39,
             "owner": "marionettejs",
             "repo": "backbone.marionette",
             "stars": 7033,
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:41:24.745Z",
+    "last_updated": "2026-09-11T13:39:31.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
