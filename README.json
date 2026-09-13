@@ -15,8 +15,8 @@
             "id": 2965621,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T23:50:18Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-13T12:07:05Z",
+            "open_issues": 24,
             "owner": "marionettejs",
             "repo": "backbone.marionette",
             "stars": 7033,
@@ -122,7 +122,7 @@
             "open_issues": 73,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28957,
+            "stars": 28955,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:56:01.749Z",
+    "last_updated": "2026-09-13T13:49:54.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
