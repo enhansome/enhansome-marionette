@@ -10,7 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The Backbone Framework",
+            "description": "Marionette v4 for Backbone applications. Maintenance fixes; new development continues in marionettejs/marionette.",
             "homepage": "https://marionettejs.com",
             "id": 2965621,
             "language": "JavaScript",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:56:31.863Z",
+    "last_updated": "2026-09-22T14:04:52.734Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
