@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Github repository",
-          "description": null,
+          "description": "marionettejs/backbone.marionette",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "marionettejs",
             "repo": "backbone.marionette",
-            "stars": 7032,
+            "stars": 7031,
             "topics": [
               "backbone",
               "backbone-framework",
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "Yeoman generator for Marionette.js",
-          "description": null,
+          "description": "mrichard/generator-marionette",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -56,7 +56,7 @@
         {
           "node_type": "item",
           "title": "Marionette Inspector",
-          "description": null,
+          "description": "marionettejs/marionette.inspector",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -82,7 +82,7 @@
         {
           "node_type": "item",
           "title": "Marionette CLI",
-          "description": null,
+          "description": "denar90/marionette-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "Streamus",
-          "description": null,
+          "description": "MeoMix/StreamusChromeExtension",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -151,7 +151,7 @@
         {
           "node_type": "item",
           "title": "Marionette Gentle Introduction",
-          "description": null,
+          "description": "davidsulc/marionette-gentle-introduction",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -172,7 +172,7 @@
         {
           "node_type": "item",
           "title": "Marionette Wires",
-          "description": null,
+          "description": "jamiebuilds/marionette-wires",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -193,7 +193,7 @@
         {
           "node_type": "item",
           "title": "Marionette Require Boilerplate",
-          "description": null,
+          "description": "BoilerplateMVC/Marionette-Require-Boilerplate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -239,7 +239,7 @@
         {
           "node_type": "item",
           "title": "Marionette Cookbook",
-          "description": null,
+          "description": "MarionetteLabs/marionette-cookbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -260,7 +260,7 @@
         {
           "node_type": "item",
           "title": "A Place to Write About Technical Subjects on the Web",
-          "description": null,
+          "description": "jamesplease/gistbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,7 +281,7 @@
         {
           "node_type": "item",
           "title": "ES6 Marionette Project",
-          "description": null,
+          "description": "abiee/es6-marionette",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -323,7 +323,7 @@
         {
           "node_type": "item",
           "title": "The Front End App for edit.sx",
-          "description": null,
+          "description": "samccone/edit.sx-frontend",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -407,7 +407,7 @@
         {
           "node_type": "item",
           "title": "MarionetteJS + Brunch + Babel/ES6",
-          "description": null,
+          "description": "denar90/brunch-with-marionettejs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -442,7 +442,7 @@
         {
           "node_type": "item",
           "title": "Marionette Virtual Dom",
-          "description": null,
+          "description": "themindfuldev/marionette-vdom",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -463,7 +463,7 @@
         {
           "node_type": "item",
           "title": "Marionette State",
-          "description": null,
+          "description": "Squareknot/marionette.state",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -484,7 +484,7 @@
         {
           "node_type": "item",
           "title": "Marionette Form View",
-          "description": null,
+          "description": "viverae/marionette.formview",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -505,7 +505,7 @@
         {
           "node_type": "item",
           "title": "A Better Router for Backbone and Marionette Applications",
-          "description": null,
+          "description": "Betterment/backbone.blazer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:53:09.697Z",
+    "last_updated": "2026-10-03T04:55:30.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
