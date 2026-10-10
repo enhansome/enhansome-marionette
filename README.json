@@ -6,28 +6,32 @@
         {
           "node_type": "item",
           "title": "Github repository",
-          "description": "marionettejs/backbone.marionette",
+          "description": "marionettejs/marionette",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Marionette v4 for Backbone applications. Maintenance fixes; new development continues in marionettejs/marionette.",
+            "description": "A JavaScript library for structured interfaces, with explicit ownership and lifecycle. Built for agent-led development. Canonical Marionette repository; v4 history is preserved on the v4 branch.",
             "homepage": "https://marionettejs.com",
             "id": 2965621,
             "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-13T12:07:05Z",
-            "open_issues": 0,
+            "license": "MIT",
+            "last_commit": "2026-10-10T07:24:42Z",
+            "open_issues": 2,
             "owner": "marionettejs",
-            "repo": "backbone.marionette",
-            "stars": 7028,
+            "repo": "marionette",
+            "stars": 7029,
             "topics": [
-              "backbone",
-              "backbone-framework",
-              "framework",
-              "frontend",
+              "agent-friendly",
+              "agentic-coding",
+              "agentic-development",
+              "ai-assisted-development",
+              "application-architecture",
               "javascript",
+              "lifecycle",
               "marionette",
-              "marionettejs"
+              "marionettejs",
+              "typescript",
+              "ui"
             ]
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -122,7 +126,7 @@
             "open_issues": 74,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28955,
+            "stars": 28953,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -557,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:21:30.070Z",
+    "last_updated": "2026-10-10T15:27:42.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
