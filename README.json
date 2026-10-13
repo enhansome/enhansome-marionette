@@ -15,7 +15,7 @@
             "id": 2965621,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T07:24:42Z",
+            "last_commit": "2026-10-13T14:48:45Z",
             "open_issues": 1,
             "owner": "marionettejs",
             "repo": "marionette",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T19:09:10.953Z",
+    "last_updated": "2026-10-13T17:01:00.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
