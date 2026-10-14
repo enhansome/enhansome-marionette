@@ -15,11 +15,11 @@
             "id": 2965621,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-13T14:48:45Z",
+            "last_commit": "2026-10-14T08:13:12Z",
             "open_issues": 1,
             "owner": "marionettejs",
             "repo": "marionette",
-            "stars": 7029,
+            "stars": 7034,
             "topics": [
               "agent-friendly",
               "agentic-coding",
@@ -126,7 +126,7 @@
             "open_issues": 74,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28957,
+            "stars": 28958,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -256,7 +256,7 @@
             "open_issues": 21,
             "owner": "MarionetteLabs",
             "repo": "marionette-cookbook",
-            "stars": 104,
+            "stars": 105,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:01:00.098Z",
+    "last_updated": "2026-10-14T14:34:22.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
