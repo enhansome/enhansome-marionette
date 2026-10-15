@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "marionettejs",
             "repo": "marionette",
-            "stars": 7034,
+            "stars": 7035,
             "topics": [
               "agent-friendly",
               "agentic-coding",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T14:34:22.133Z",
+    "last_updated": "2026-10-15T14:14:04.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
