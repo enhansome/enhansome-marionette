@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "marionettejs",
             "repo": "marionette",
-            "stars": 7036,
+            "stars": 7037,
             "topics": [
               "agent-friendly",
               "agentic-coding",
@@ -126,7 +126,7 @@
             "open_issues": 74,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28962,
+            "stars": 28961,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:02:37.548Z",
+    "last_updated": "2026-10-18T13:22:24.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
