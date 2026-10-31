@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,042 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-30
+* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,043 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-30
 * [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette) ⭐ 326 | 🐛 24 | 🌐 JavaScript | 📅 2016-12-23
 * [Marionette Inspector](https://github.com/marionettejs/marionette.inspector) ⚠️ Archived
 * [Marionette CLI](https://github.com/denar90/marionette-cli) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2016-05-28
@@ -99,7 +99,7 @@
 * [Marionette Contact Manager](https://github.com/dmytroyarmak/marionette-contact-manager) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2014-02-05 - Continuation of development "Backbone Contact Manager" but using Marionette.js
 * [Webpack-Marionette](https://github.com/alexpsi/webpack-marionette) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2016-12-30 A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.
 * [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) ⭐ 18 | 🐛 1 | 🌐 ApacheConf | 📅 2015-05-20 - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js
-* [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-23
+* [MarionetteJS + Brunch + Babel/ES6](https://github.com/denar90/brunch-with-marionettejs) ⭐ 16 | 🐛 0 | 🌐 JavaScript | 📅 2017-03-23
 
 ## Libraries
 
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

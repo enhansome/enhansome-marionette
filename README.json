@@ -15,11 +15,11 @@
             "id": 2965621,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T14:13:59Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-30T17:02:51Z",
+            "open_issues": 1,
             "owner": "marionettejs",
             "repo": "marionette",
-            "stars": 7042,
+            "stars": 7043,
             "topics": [
               "agent-friendly",
               "agentic-coding",
@@ -424,7 +424,7 @@
             "open_issues": 0,
             "owner": "denar90",
             "repo": "brunch-with-marionettejs",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "brunch",
               "marionette",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:01:31.111Z",
+    "last_updated": "2026-10-31T15:24:09.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
