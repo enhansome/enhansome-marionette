@@ -15,7 +15,7 @@
             "id": 2965621,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T17:02:51Z",
+            "last_commit": "2026-11-01T14:10:45Z",
             "open_issues": 1,
             "owner": "marionettejs",
             "repo": "marionette",
@@ -126,7 +126,7 @@
             "open_issues": 74,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28964,
+            "stars": 28963,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:24:09.458Z",
+    "last_updated": "2026-11-01T16:08:15.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
