@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,045 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-10
+* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,046 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-11
 * [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette) ⭐ 326 | 🐛 24 | 🌐 JavaScript | 📅 2016-12-23
 * [Marionette Inspector](https://github.com/marionettejs/marionette.inspector) ⚠️ Archived
 * [Marionette CLI](https://github.com/denar90/marionette-cli) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2016-05-28
@@ -85,7 +85,7 @@
 
 ## Examples and boilerplates
 
-* [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) ⭐ 28,971 | 🐛 82 | 🌐 JavaScript | 📅 2026-06-06 - TodoMVC example
+* [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) ⭐ 28,975 | 🐛 82 | 🌐 JavaScript | 📅 2026-06-06 - TodoMVC example
 * [Streamus](https://github.com/MeoMix/StreamusChromeExtension) ⭐ 1,067 | 🐛 81 | 🌐 JavaScript | 📅 2021-09-08
 * [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) ⭐ 341 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-09
 * [Marionette Wires](https://github.com/thejameskyle/marionette-wires) ⭐ 321 | 🐛 16 | 🌐 JavaScript | 📅 2016-09-09
@@ -107,9 +107,9 @@
 * [Marionette State](https://github.com/Squareknot/marionette.state) ⭐ 109 | 🐛 1 | 🌐 JavaScript | 📅 2016-01-25
 * [Marionette Form View](https://github.com/viverae/marionette.formview) ⭐ 75 | 🐛 5 | 🌐 JavaScript | 📅 2015-08-10
 * [A Better Router for Backbone and Marionette Applications](https://github.com/Betterment/backbone.blazer) ⚠️ Archived
-* [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) ⭐ 69 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-13 - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
+* [Marionette.Toolkit](https://github.com/RoundingWellOS/marionette.toolkit) ⭐ 70 | 🐛 6 | 🌐 JavaScript | 📅 2026-04-13 - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
 * [Orchestra](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
