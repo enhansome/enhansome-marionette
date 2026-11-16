@@ -126,7 +126,7 @@
             "open_issues": 85,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28974,
+            "stars": 28973,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -147,7 +147,7 @@
             "open_issues": 81,
             "owner": "MeoMix",
             "repo": "StreamusChromeExtension",
-            "stars": 1067,
+            "stars": 1066,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:27:26.811Z",
+    "last_updated": "2026-11-16T19:42:58.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
