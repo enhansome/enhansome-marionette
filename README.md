@@ -4,7 +4,7 @@
 
 ## General
 
-* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,047 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-21
+* [Github repository](https://github.com/marionettejs/backbone.marionette) ⭐ 7,047 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-22
 * [Yeoman generator for Marionette.js](https://github.com/mrichard/generator-marionette) ⭐ 326 | 🐛 24 | 🌐 JavaScript | 📅 2016-12-23
 * [Marionette Inspector](https://github.com/marionettejs/marionette.inspector) ⚠️ Archived
 * [Marionette CLI](https://github.com/denar90/marionette-cli) ⭐ 23 | 🐛 3 | 🌐 JavaScript | 📅 2016-05-28
@@ -85,7 +85,7 @@
 
 ## Examples and boilerplates
 
-* [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) ⭐ 28,977 | 🐛 86 | 🌐 JavaScript | 📅 2026-06-06 - TodoMVC example
+* [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) ⭐ 28,976 | 🐛 86 | 🌐 JavaScript | 📅 2026-06-06 - TodoMVC example
 * [Streamus](https://github.com/MeoMix/StreamusChromeExtension) ⭐ 1,066 | 🐛 81 | 🌐 JavaScript | 📅 2021-09-08
 * [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction) ⭐ 340 | 🐛 0 | 🌐 JavaScript | 📅 2016-05-09
 * [Marionette Wires](https://github.com/thejameskyle/marionette-wires) ⭐ 321 | 🐛 16 | 🌐 JavaScript | 📅 2016-09-09
@@ -112,4 +112,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
