@@ -15,11 +15,11 @@
             "id": 2965621,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T15:35:30Z",
+            "last_commit": "2026-11-25T03:22:18Z",
             "open_issues": 2,
             "owner": "marionettejs",
             "repo": "marionette",
-            "stars": 7048,
+            "stars": 7049,
             "topics": [
               "agent-friendly",
               "agentic-coding",
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:14:03.667Z",
+    "last_updated": "2026-11-25T19:26:25.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
