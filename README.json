@@ -126,7 +126,7 @@
             "open_issues": 86,
             "owner": "tastejs",
             "repo": "todomvc",
-            "stars": 28976,
+            "stars": 28977,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:16.149Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:26:25.485Z",
+    "last_updated": "2026-11-26T19:09:01.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of resources for marionette.js",
